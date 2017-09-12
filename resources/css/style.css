@@ -3,12 +3,13 @@ body {
 }
 
 .hero {
-  background-image: url(/Users/sszerlip/Desktop/codecademy/broadway/resources/images/the-flatiron-building.png);
+  background-image:
+    url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   color: white;
   text-align: center;
 }
 
-h1 {
+.hero h1 {
   font-size: 70px;
   font-weight: bold;
 }
