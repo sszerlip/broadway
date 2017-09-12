@@ -1,5 +1,5 @@
 body {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
 }
 
 .hero {
@@ -8,7 +8,7 @@ body {
   text-align: center;
 }
 
-.hero h1 {
+h1 {
   font-size: 70px;
   font-weight: bold;
 }
@@ -16,4 +16,24 @@ body {
 .btn-nav {
   color: white;
   font-size: 18px;
+}
+
+.supporting {
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+.supporting h2 {
+  font-size: 32px;
+}
+
+.supporting h3 {
+  font-size: 23px;
+}
+
+.supporting-item p {
+  font-size: 14px;
 }
