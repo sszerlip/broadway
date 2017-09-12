@@ -37,3 +37,10 @@ h1, h2, h3 {
 .supporting-item p {
   font-size: 14px;
 }
+
+.mini-hero h3 {
+  color: white;
+  background-image: url(/Users/sszerlip/Desktop/codecademy/broadway/resources/images/the-flatiron-building.png);
+  font-size: 23px;
+  text-align: center;
+}
