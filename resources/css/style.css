@@ -1,0 +1,19 @@
+body {
+  font-family: Helvetica;
+}
+
+.hero {
+  background-image: url(/Users/sszerlip/Desktop/codecademy/broadway/resources/images/the-flatiron-building.png);
+  color: white;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.btn-nav {
+  color: white;
+  font-size: 18px;
+}
